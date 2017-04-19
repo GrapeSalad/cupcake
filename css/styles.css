@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  background-color: #A3FEFF;
+  border-radius: 25px;
+  padding: 5px 5px 1px;
+}
+
+.best img {
+  border-radius: 50%;
+}
+
+#gallery {
+  background-color: #E89685;
+  padding: 20px;
+  height: auto;
+}
+
+#gallery li img {
+  max-width: 100px;
+  max-height: 125px;
+}
+
+#gallery li {
+  display: inline;
+}
